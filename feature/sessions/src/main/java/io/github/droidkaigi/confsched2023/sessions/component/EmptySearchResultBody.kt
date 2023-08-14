@@ -18,6 +18,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import io.github.droidkaigi.confsched2023.sessions.SessionsStrings
 
+
 @Composable
 fun EmptySearchResultBody(
     modifier: Modifier = Modifier,
