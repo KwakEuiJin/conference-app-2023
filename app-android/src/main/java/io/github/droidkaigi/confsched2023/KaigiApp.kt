@@ -89,10 +89,7 @@ fun KaigiApp(
             modifier = modifier.fillMaxSize(),
             color = MaterialTheme.colorScheme.background,
         ) {
-            KaigiNavHost(
-                windowSize = windowSize,
-                displayFeatures = displayFeatures,
-            )
+            Text(text = "hello")
         }
     }
 }
