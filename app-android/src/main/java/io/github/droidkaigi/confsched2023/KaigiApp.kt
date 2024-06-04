@@ -90,10 +90,6 @@ fun KaigiApp(
             color = MaterialTheme.colorScheme.background,
         ) {
             Text(text = "hello")
-            KaigiNavHost(
-                windowSize = windowSize,
-                displayFeatures = displayFeatures,
-            )
         }
     }
 }
